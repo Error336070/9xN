@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h2 align="center">Error336070N</h2>
+<h2 align="center">Error336070</h2>
 
 <div align="center">
   <a href="https://github.com/Error336070">
